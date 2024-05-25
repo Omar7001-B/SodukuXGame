@@ -14,8 +14,10 @@ This project is a Sudoku solver and generator implemented in Python using Pygame
 ### Running the Game
 
 Run the main script to start the Sudoku game:
+```bash
 pip install pygame
-python sudoku_solver.py
+python main.py
+```
 
 ## How to Play
 
